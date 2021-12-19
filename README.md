@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VickDaPro
-- 👀 I’m interested in Full Stack development.
+- 👀 I’m interested in Front end development.
 - 🌱 I’m currently learning Front end development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
