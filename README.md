@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Jyani</h1>
-<h3 align="center">Front-End Developer with a keen eye for detail.</h3>
+<h3 align="center">Front-End Developer from India, with a keen eye for detail.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickdapro&label=Profile%20views&color=0e75b6&style=flat" alt="vickdapro" /> </p>
 
