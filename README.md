@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/vickdapro" target="blank"><img src="https://img.shields.io/twitter/follow/vickdapro?logo=twitter&style=for-the-badge" alt="vickdapro" /></a> </p>
 
+<a href="https://app.daily.dev/VickPro"><img src="https://api.daily.dev/devcards/fc8c8761ab864ee48ef5be67c9ecd624.png?r=iz5" width="400" alt="Vikas Bishnoi's Dev Card"/></a>
+
 - 🌱 I’m currently learning **React and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VickDaPro](https://github.com/VickDaPro)
