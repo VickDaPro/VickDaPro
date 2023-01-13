@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vickbishnoi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NTjJJ8_YANOuRTLqRHMmyyEObnfUYunB/view?usp=sharing](https://drive.google.com/file/d/1NTjJJ8_YANOuRTLqRHMmyyEObnfUYunB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1irIqPjJ0ZWBNJUMERgWZCO_yHWk5XuCd/view?usp=sharing](https://drive.google.com/file/d/1irIqPjJ0ZWBNJUMERgWZCO_yHWk5XuCd/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
