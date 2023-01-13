@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VickDaPro](https://github.com/VickDaPro)
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **Mern Stack Development**
 
 - 📫 How to reach me **vickbishnoi@gmail.com**
 
