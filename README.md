@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Jyani</h1>
-<h3 align="center">Front-End Developer with a keen eye for detail.</h3>
+<h3 align="center">Full Stack developer with GenAI skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickdapro&label=Profile%20views&color=0e75b6&style=flat" alt="vickdapro" /> </p>
 
@@ -9,15 +9,15 @@
 
 <a href="https://app.daily.dev/VickPro"><img src="https://api.daily.dev/devcards/fc8c8761ab864ee48ef5be67c9ecd624.png?r=iz5" width="400" alt="Vikas Bishnoi's Dev Card"/></a>
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- 🌱 I’m currently learning **to build GenAI powered applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VickDaPro](https://github.com/VickDaPro)
 
-- 💬 Ask me about **Mern Stack Development**
+- 💬 Ask me about **Full Stack Development with applied AI**
 
 - 📫 How to reach me **vickbishnoi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1irIqPjJ0ZWBNJUMERgWZCO_yHWk5XuCd/view?usp=sharing](https://drive.google.com/file/d/1irIqPjJ0ZWBNJUMERgWZCO_yHWk5XuCd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1irIqPjJ0ZWBNJUMERgWZCO_yHWk5XuCd/view?usp=sharing](https://drive.google.com/file/d/1irIqPjJ0ZWBNJUMERgWZCO_yHWk5XuCd/view?usp=sharing](https://drive.google.com/file/d/1CYstexs-2KAz-cBbvGbdc19esvSt7-JM/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
