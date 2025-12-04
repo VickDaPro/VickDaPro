@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Jyani</h1>
-<h3 align="center">Full Stack developer with GenAI skills</h3>
+<h3 align="center">Full Stack AI Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickdapro&label=Profile%20views&color=0e75b6&style=flat" alt="vickdapro" /> </p>
 
@@ -9,11 +9,11 @@
 
 <a href="https://app.daily.dev/VickPro"><img src="https://api.daily.dev/devcards/fc8c8761ab864ee48ef5be67c9ecd624.png?r=iz5" width="400" alt="Vikas Bishnoi's Dev Card"/></a>
 
-- 🌱 I’m currently learning **to build GenAI powered applications**
+- 🌱 I’m currently learning **to build Full Stack AI powered applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VickDaPro](https://github.com/VickDaPro)
 
-- 💬 Ask me about **Full Stack Development with applied AI**
+- 💬 Ask me about **Full Stack AI Product Development**
 
 - 📫 How to reach me **vickbishnoi@gmail.com**
 
